@@ -13,23 +13,23 @@ This textbook is targetted at final year undergraduate students, master students
 For those readers looking for a entry-level introduction to SoC design, we recommend our Fundamentals of System-on-Chip Design on Arm Cortex-M Microcontrollers textbook.
 
 ## Table of Contents:
-1	Introduction to System-on-Chip
+1.	Introduction to System-on-Chip
 
-2	Processors, Memory and IP Blocks
+2.	Processors, Memory and IP Blocks
 
-3	SoC Interconnect
+3.	SoC Interconnect
 
-4	System Design Considerations
+4.	System Design Considerations
 
-5	Electronic System-Level Modelling
+5.	Electronic System-Level Modelling
 
-6	Architectural Design Exploration
+6.	Architectural Design Exploration
 
-7	Formal Methods and Assertion-based Design
+7.	Formal Methods and Assertion-based Design
 
-8	Fabrication and Production
+8.	Fabrication and Production
 
-9	Putting Everything Together
+9.	Putting Everything Together
 
 ## License
 You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/) for the complete license.
