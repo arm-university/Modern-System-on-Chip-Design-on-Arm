@@ -32,7 +32,8 @@ For those readers looking for a entry-level introduction to SoC design, we recom
 9.	Putting Everything Together
 
 ## License
-You are free to fork or clone this material. You may reprint or republish portions of the text for non-commercial, educational or research purposes but only if there is an attribution to Arm Education.
+You are free to fork, clone or download this book in PDF format for personal, non-commerical use only. 
+You may reprint or republish portions of the text for non-commercial, educational or research purposes but only if there is an attribution to Arm Education.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
