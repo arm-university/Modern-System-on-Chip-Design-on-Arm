@@ -1,5 +1,5 @@
 # Modern-System-on-Chip-Design-on-Arm
-ePDF textbook by Dr. David Greaves 
+Textbook by Dr. David Greaves (available as PDF)
 
 Discover the fundamentals and latest developments in modern SoC design using Arm Cortex-A technology as the demonstrator platform.
 
@@ -32,7 +32,7 @@ For those readers looking for a entry-level introduction to SoC design, we recom
 9.	Putting Everything Together
 
 ## License
-You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/) for the complete license.
+You are free to fork or clone this material. You may reprint or republish portions of the text for non-commercial, educational or research purposes but only if there is an attribution to Arm Education.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
