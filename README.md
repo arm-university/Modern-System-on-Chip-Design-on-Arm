@@ -5,7 +5,7 @@ Discover the fundamentals and latest developments in modern SoC design using Arm
 
 ## [Download here](https://github.com/arm-university/Modern-System-on-Chip-Design-on-Arm/blob/main/Modern%20System-on-Chip%20Design%20on%20Arm_textbook.pdf)
 
-## Resource Aim
+## About this Book
 The aim of this textbook is to expose aspiring and practising SoC designers to the fundamentals and latest developments in SoC design and technologies using examples of Arm Cortex-A technology and related IP blocks and interfaces. The entire SoC design process is discussed in detail, from memory and interconnects through to validation, fabrication and production. A particular highlight of this textbook is the focus on energy efficient SoC design, and the extensive supplementary materials which include a SystemC model of a Zynq chip.
 
 This textbook is targetted at final year undergraduate students, master students or engineers in the field looking to update their knowledge. It is assumed that readers will have a pre-existing understanding of RTL, Assembly Language and Operating Systems.
